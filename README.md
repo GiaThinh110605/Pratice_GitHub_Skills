@@ -12,3 +12,4 @@
 - Kiểm tra những thay đổi và merge code vào nhánh chính
 
 #### Cách 2: Sử dụng tool hỗ trợ: Git Graph trong extension của Visual Studio Code
+- Sử dụng Git Graph có những tính năng revert
